@@ -1,0 +1,10 @@
+.add-docu{
+  position: relative; 
+  top: 0;
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */ 
+}
+.docu-div{
+    margin-top: -70px;
+    border: 1px solid rgb(130, 176, 194);
+}
